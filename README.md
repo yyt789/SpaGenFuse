@@ -25,11 +25,11 @@ We present UniSpa, a deep generative model for spatial multi-omics integration. 
 
 SPOTS Mouse Spleen Data(Ben-Chetrit et al., 2023) - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198353
 
-Spatial-epigenome-transcriptome Mouse Brain Data(Zhang et al. 2023) - https://web.atlasxomics.com/visualization/Fan
+Spatial-epigenome-transcriptome Mouse Brain Data(Zhang et al., 2023) - https://web.atlasxomics.com/visualization/Fan
 
-Stereo-CITE-seq Mouse Thymus Data、Human Lymph Node Data (10x Visium CytAssist)(Long et al. 2024) - https://zenodo.org/records/10362607
+Stereo-CITE-seq Mouse Thymus Data、Human Lymph Node Data (10x Visium CytAssist)(Long et al., 2024) - https://zenodo.org/records/10362607
 
-MISAR-seq mouse embryonic brain RNA-ATAC data(Jiang et al. 2023) - https://zenodo.org/records/7480069
+MISAR-seq mouse embryonic brain RNA-ATAC data(Jiang et al., 2023) - https://zenodo.org/records/7480069
 
 Slide-tags human melanoma RNA-ATAC data - https://singlecell.broadinstitute.org/single_cell/study/SCP2176
 
