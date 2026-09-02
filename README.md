@@ -36,3 +36,6 @@ Slide-tags human melanoma RNA-ATAC data - https://singlecell.broadinstitute.org/
 ## Tutorial
 
 Tutorials will be added subsequently.
+
+## Rep
+The repository (https://github.com/yyt789/SpaGenFuse_Rep) contains the Jupyter Notebooks and corresponding source data used to reproduce the benchmark results reported in the manuscript.
