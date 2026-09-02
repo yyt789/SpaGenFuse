@@ -33,9 +33,11 @@ MISAR-seq mouse embryonic brain RNA-ATAC data(Jiang et al., 2023) - https://zeno
 
 Slide-tags human melanoma RNA-ATAC data - https://singlecell.broadinstitute.org/single_cell/study/SCP2176
 
+
+
+## Notebook
+The repository (https://github.com/yyt789/SpaGenFuse_Rep) contains the Jupyter Notebooks and corresponding source data used to reproduce the benchmark results reported in the manuscript.
+
 ## Tutorial
 
 Tutorials will be added subsequently.
-
-## Rep
-The repository (https://github.com/yyt789/SpaGenFuse_Rep) contains the Jupyter Notebooks and corresponding source data used to reproduce the benchmark results reported in the manuscript.
